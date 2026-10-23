@@ -117,7 +117,7 @@ title: Πως αγοράζω, πουλάω, ξοδεύω και δεχόμαι B
 
 ### <a name="bitcoin.org"></a>Που μπορώ να μάθω περισσότερα για το Bitcoin;
 
-Η επίσημη σελίδα ενημέρωσης για το Bitcoin είναι το [bitcoin.org](https://bitcoin.org). Η σελίδα [Bitcoin Resources του Jameson Lopp](https://lopp.net/bitcoin.html) είναι επίσης πολύ χρήσιμη.
+Η επίσημη σελίδα ενημέρωσης για το Bitcoin είναι το [bitcoin.org](https://bitcoin.org). Η σελίδα [Bitcoin Resources του Jameson Lopp](https://lopp.net/bitcoin.html) είναι επίσης πολύ χρήσιμη. Στα Αγγλικά, το [LearnBitcoin](https://www.learnbitcoin.com/journey) προσφέρει μια εισαγωγή στο Bitcoin σε έξι κεφάλαια.
 
 ### <a name="books"></a>Ποια βιβλία να διαβάσω για το Bitcoin;
 
